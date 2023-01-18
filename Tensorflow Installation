@@ -1,0 +1,5 @@
+First to check if you have GPU:
+https://www.cyberciti.biz/faq/linux-tell-which-graphics-vga-card-installed/
+
+Then install GPU driver:
+https://gist.github.com/hangsong/c0c3839ebfea7b683287db539785bc10
